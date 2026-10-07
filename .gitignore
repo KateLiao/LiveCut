@@ -1,0 +1,8 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+PRD.md
+docs/
+原型设计/
